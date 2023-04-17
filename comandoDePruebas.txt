@@ -1,0 +1,5 @@
+//levantar pruebas unitarias
+ng test
+//vergrafico de cuantas lineas de codigo se usan crea una carpeta coverage
+ng test --code-coverage
+
